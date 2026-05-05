@@ -33,14 +33,12 @@ class AnveshTrivedi:
     role        = "Full-Stack Dev + AI/ML Engineer"
     
     passion     = [
-        "Building AI that governs with transparency",
-        "Making fintech safer with blockchain + ML",
-        "Winning hackathons at ungodly hours ☕",
+        "Navigating through modern tech and building intelligent systems"
     ]
 
-    superpower  = "Shipping production-grade AI systems as a 2nd-year undergrad"
+    superpower  = "Shipping production-grade AI systems as a pre-final year undergrad"
     
-    currently   = "Building something that will blow your mind 👀"
+    currently   = "Building..."
 ```
 
 <br clear="right"/>
@@ -253,14 +251,12 @@ class AnveshTrivedi:
     role        = "Full-Stack Dev + AI/ML Engineer"
     
     passion     = [
-        "Building AI that governs with transparency",
-        "Making fintech safer with blockchain + ML",
-        "Winning hackathons at ungodly hours ☕",
+        "Navigating through modern tech and building intelligent systems",
     ]
 
     superpower  = "Shipping production-grade AI systems as a Pre-Final year undergrad"
     
-    currently   = "Building something that will blow your mind 👀"
+    currently   = "Building..."
 ```
 
 <br clear="right"/>
@@ -421,22 +417,6 @@ class AnveshTrivedi:
 
 ---
 
-<!-- LEADERSHIP -->
-## `> whoami --roles`
-
-```yaml
-- role: Community Service Director
-  org: Rotaract Club of Acropolis Royals
-  impact:
-    - Led community initiatives across city
-    - Volunteer coordination & social programs
-    - Building leaders, not just coders
-```
-
----
-
-<!-- CONNECT SECTION -->
-## `> ping anvesh`
 
 <div align="center">
 
