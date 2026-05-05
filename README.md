@@ -203,7 +203,7 @@ class AnveshTrivedi:
 
 <!-- LEADERSHIP -->
 
-## `> ping akshay`
+## `> ping anvesh`
 
 <div align="center">
 
