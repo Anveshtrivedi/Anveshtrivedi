@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=2nd+Year+B.Tech+CS%26IT+%7C+Acropolis+Institute%2C+Indore;Full-Stack+Developer+%7C+React+%2B+Spring+Boot;AI+%26+ML+Engineer+%7C+LLMs+%7C+Computer+Vision;Hackathon+Finalist+%26+Award+Winner;Building+AI+Systems+That+Actually+Matter;Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=3rd+Year+B.Tech+CS%26IT+%7C+Acropolis+Institute%2C+Indore;Full-Stack+Developer+%7C+React+%2B+Spring+Boot;AI+%26+ML+Engineer+%7C+LLMs+%7C+Computer+Vision;Hackathon+Finalist+%26+Award+Winner;Building+AI+Systems+That+Actually+Matter;Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,7 +30,7 @@ $ anvesh --info
 
 ```yaml
 Name        : Anvesh Trivedi
-Role        : B.Tech CS & IT — 2nd Year @ Acropolis Institute
+Role        : B.Tech CS & IT — 3rd Year @ Acropolis Institute
 Passion     : Building AI Systems That Actually Matter
 Mindset     : Engineer + Researcher + Builder
 Location    : Indore, Madhya Pradesh 🇮🇳
