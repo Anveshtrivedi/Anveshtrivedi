@@ -169,7 +169,7 @@ class AnveshTrivedi:
 ## `> git log --graph --all`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=A-kki&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=5b21b6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anveshtrivedi&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=5b21b6"/>
 </div>
 
 ---
@@ -389,7 +389,7 @@ class AnveshTrivedi:
 ## `> git log --graph --all`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=A-kki&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=5b21b6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anveshtrivedi&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=5b21b6"/>
 </div>
 
 ---
@@ -398,7 +398,7 @@ class AnveshTrivedi:
 ## `> ls ./certifications`
 
 ```bash
-✅  Object Oriented Programming          →  NPTEL   [OOP · DSA · Application Dev]
+✅  Object Oriented Programming          →  NPTEL
 ✅  Generative AI Professional  →  Oracle  [Prompt Eng · AI Model Integration]
 ```
 
