@@ -442,12 +442,12 @@ class AnveshTrivedi:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Anveshtrivedi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anveshtrivedi)
-[![Email](https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:anveshtrivedii@gmail.com)
-[![Phone](https://img.shields.io/badge/+91--7566632624-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919770816506)
+[![Email](https://img.shields.io/badge/EMail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:anveshtrivedii@gmail.com)
+[![Phone](https://img.shields.io/badge/+91--9770816506-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919770816506)
 
 <br/>
 
-> *"I don't wait for the future. I build it."*
+
 
 </div>
 
