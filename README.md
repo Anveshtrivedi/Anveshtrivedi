@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anvesh%20Trivedi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Hackathon%20Slayer&descAlignY=60&descSize=18&descColor=a78bfa"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anvesh%20Trivedi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -209,8 +209,8 @@ class AnveshTrivedi:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Anveshtrivedi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anveshtrivedi)
-[![Email](https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:anveshtrivedii@gmail.com)
-[![Phone](https://img.shields.io/badge/+91--7566632624-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919770816506)
+[![Email](https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:anveshtrivedii@gmail.com)
+[![Phone](https://img.shields.io/badge/+91--9770816506-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919770816506)
 
 <br/>
 
